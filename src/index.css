@@ -1,0 +1,50 @@
+.login-page{
+    border: none;
+    border-radius: 7px;
+    width: 100%;
+    height: 50vh;
+    background-color:rgb(255, 162, 177);    
+   text-align: center;
+}
+.login-page h1{
+  padding-top: 20px;
+    color: white;
+    font-weight: 700;
+}
+.login-page label{
+    color: white;
+    font-size: 16px;
+}
+.login-page input{
+    border: none;
+    margin-left: 15px;
+}
+.login-page button{
+    border: none;
+    border-radius: 5px;
+    padding: 6px 14px;
+}
+.cart-page{
+ border: 1px solid;
+}
+.btns{
+    margin-left: 120px;
+   position: absolute;
+   bottom: 20px;
+ 
+}
+.remove{
+    margin-left: 110px;
+    border: none;
+    border-radius: 7px;
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 260px;
+}
+.btn1{
+    border: none;
+    border-radius: 7px;
+    color: rgb(6, 5, 5);
+    font-weight: bold;
+}
